@@ -1,0 +1,2 @@
+<%@ page pageEncoding="UTF-8" %>
+<div class="demo-note"><span class="dot"></span> 가상 고객으로 이용하는 체험 서비스입니다. 실제 송금·상품 가입·잔액 변경은 이루어지지 않습니다.</div></main><footer class="site-footer"><div class="wrap"><a class="brand" href="/">NOVA<span>bank</span></a><p>당신의 오늘과 내일을 잇는 금융.</p><span>© 2026 NOVA Bank. 가상 인터넷뱅킹 체험.</span></div></footer></body></html>
